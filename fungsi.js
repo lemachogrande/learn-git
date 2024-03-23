@@ -11,3 +11,4 @@ const divide = (a,b) => a/b;
 console.log(divide(4,4));
 
 console.log(add(5,6));
+console.log(divide(4,6))
